@@ -6,6 +6,18 @@ iframe{
 	width: 100%;
 }
 
+.header{
+	margin: 0 auto;
+}
+
+.titleimg{
+	width: 0;
+}
+
+.titletxt{
+	width: 100%;
+}
+
 .main{
 	width: 100%;
 	float: none;

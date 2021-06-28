@@ -57,9 +57,16 @@ iframe{
      font-size: 2.1rem;
 }
 
-.title{
+.titleimg{
+     width: 20%;
+}
+.titletxt{
+     width: 60%;
+}
+
+.titleimg, .titletxt {
      float: left;
-     display: inline;
+     display: inline-block;
 }
 
 .main{
