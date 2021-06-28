@@ -1,0 +1,19 @@
+body{
+	background-size: contain;
+	background-attachment: fixed;
+}
+
+iframe{
+	width: 100%;
+}
+
+.main{
+	width: 100%;
+	float: none;
+}
+.sidebar{
+	width: 80%;
+	margin: 0 auto;
+	float: none;
+}
+
